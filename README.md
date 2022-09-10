@@ -7,6 +7,6 @@
 
 **The only way to learn a new _PROGRAMMING_ implanguage is by writing programs in it.**
 
-~~Testing leads to failure~~ **and failure leads to understanding.**
+Testing leads to ~~failure~~ **and ~~failure~~ leads to understanding.**
 
 *The best error message is the one that never shows up.*
